@@ -26,25 +26,7 @@ I have worked on various projects, from **Angular and React applications** to **
 
 ## 🔹 Notable Projects  
 
-### 📌 [E-Commerce Website (Angular + Firebase)](https://github.com/BeretityErik/e-commerce-angular)  
-🛍 A full-fledged e-commerce platform with real-time database and authentication.  
-- **Tech:** Angular, Firebase, Firestore  
-- **Features:** Product listings, shopping cart, Firebase authentication  
 
-### 📌 [Real-Time Chat App (Angular + Firebase)](https://github.com/BeretityErik/chat-app)  
-💬 A live chat application with Firebase backend.  
-- **Tech:** Angular, Firebase, Firestore  
-- **Features:** Real-time messaging, user authentication, responsive design  
-
-### 📌 [Medical Practice Management Software (JavaFX + MySQL)](https://github.com/BeretityErik/medical-practice)  
-🏥 A system for managing patient records and prescriptions.  
-- **Tech:** JavaFX, MySQL, Java  
-- **Features:** Patient management, appointment scheduling, prescription tracking  
-
-### 📌 [Pet Management System (C# & WinForms)](https://github.com/BeretityErik/pet-management)  
-🐶 A desktop app for managing pets and categories dynamically.  
-- **Tech:** C#, WinForms, MySQL  
-- **Features:** CRUD functionality, dynamic categories, user-friendly UI  
 
 ---
 
