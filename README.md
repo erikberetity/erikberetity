@@ -26,8 +26,6 @@ I have worked on various projects, from **Angular and React applications** to **
 
 ## 🔹 Notable Projects  
 
-**www.beretityerik.com**
-
 **https://tattoo-studio-red.vercel.app**
 
 ---
@@ -36,7 +34,7 @@ I have worked on various projects, from **Angular and React applications** to **
 ## 🔹 Contact Me  
 📩 **Email:** bereticerik@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/beretityerik](https://linkedin.com/in/beretityerik)  
-🌎 **Portfolio:** [Coming Soon!]  
+🌎 **Portfolio:** www.beretityerik.com
 
 ---
 
