@@ -26,7 +26,9 @@ I have worked on various projects, from **Angular and React applications** to **
 
 ## 🔹 Notable Projects  
 
+**www.beretityerik.com**
 
+**https://tattoo-studio-red.vercel.app**
 
 ---
 
